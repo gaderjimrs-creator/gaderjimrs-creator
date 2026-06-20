@@ -6,9 +6,10 @@ I am passionate about Python programming, software development, and AI engineeri
 
 ## 🔭 Current Project
 
-* Creator of **ToolVerse** and **DaliyLifeKit**
-* I want to build a Bigginar friendlly package and program
-* Learning Software devlopment, Open Source, and AI
+* Creator of ToolVerse
+* Currently building DailyLifeKit
+* I want to build a Beginner-friendly package and program
+* Learning Software development, Open Source, and AI
 
 ## 🛠️ Skills
 
