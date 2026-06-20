@@ -6,16 +6,14 @@ I am passionate about Python programming, software development, and AI engineeri
 
 ## 🔭 Current Project
 
-* Creator of **ToolVerse**
-* Building useful Python utility tools
-* Learning Git, GitHub, Open Source, and AI
+* Creator of **ToolVerse** and **DaliyLifeKit**
+* I want to build a Bigginar friendlly package and program
+* Learning Software devlopment, Open Source, and AI
 
 ## 🛠️ Skills
 
 * Python
 * Git & GitHub
-* Object-Oriented Programming (OOP)
-* File Handling
 * Testing with Pytest
 
 ## 📚 Currently Learning
@@ -29,7 +27,7 @@ I am passionate about Python programming, software development, and AI engineeri
 
 * Become a Software Developer
 * Become an AI Engineer
-* Build useful open-source projects
+* Build useful open-source projects and useful packages
 * Contribute to the developer community
 
 ## 📦 Featured Project
@@ -47,6 +45,12 @@ A Python utility library containing:
 * Date & Time Tools
 * Student Tools
 * System Tools
+
+### DailyLifeKit
+
+A Python daily life utility library containing:
+
+* Student Tools
 
 ## 🌱 Developer Journey
 
